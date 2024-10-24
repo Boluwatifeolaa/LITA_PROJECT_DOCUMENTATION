@@ -79,14 +79,16 @@ group by Product
 ### Results and Findings
 ---
 The analysis results are summarised as follows: 
-Sales Data
-   1. The sales revenue made in year 2023 was more year 2024 revenue
+- Sales Data
+   1. The sales revenue made in year 2023 was more than that of year 2024 revenue
    2. Shoes was the highest selling products in terms of sales and revenue
    3. The south region was the region with the high revenue sold, which means customers in other regions should be targeted for 
        marketing efforts
-Customer Data
+- Customer Data
+  1. It was noticed that the revenue dropped in year 2023 drastically
+  2. The 
 
-### Data Visualization
+### Data Visualizationsoth region has the highest revenue
 ---
 Few extracted columns from the table i worked on and image from the document i worked on
 
