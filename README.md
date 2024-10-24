@@ -67,16 +67,24 @@ EDA involved the exploring of data to answer some questions about the data such 
 
 ### Data Analysis
 ---
-This is where we we include soe basic lines of code or queries or even some of the DAX expresions used during analysis;
+This is where we we include some basic lines of code or queries or even some of the DAX expresions used during analysis;
 
 ``` SQL
-select * from Salary
-where Staffid = 'AB402'
-
-update employee
-set secondname = 'Endurance'
-where staffid = 'AB405'
+select product,
+sum(Revenue) as total_sales
+from [dbo].[dataset 1]	
+group by Product
 ```
+
+### Results and Findings
+---
+The analysis results are summarised as follows: 
+Sales Data
+   1. The sales revenue made in year 2023 was more year 2024 revenue
+   2. Shoes was the highest selling products in terms of sales and revenue
+   3. The south region was the region with the high revenue sold, which means customers in other regions should be targeted for 
+       marketing efforts
+Customer Data
 
 ### Data Visualization
 ---
