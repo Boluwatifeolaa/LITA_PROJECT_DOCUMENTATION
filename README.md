@@ -19,11 +19,12 @@ DOCUMENTATION OF MY LITA PROJECT
 
 ### Project Overview
 ---
-This project is to give details about how i analysed trans.
+This project is to give details about the two data i worked with for my project which are Sales data and customer data. By analysing the aspect of sales data and customer data, to identify the trends, sales overview, top-performing products, and 
+regional breakdowns.
 
 ### Data Sources
 ---
-The primary data source of data used here is CSV file and this is an open source data that can be freely downloaded from an open source online such as kaggle or any other data repository site 
+The primary data source of data used here is "sales_data.csv" and "customer_data.csv" and this is an open source data that can be freely downloaded from an open source online such as kaggle or any other data repository site 
 
 ### Tools Used 
 ---
@@ -33,20 +34,36 @@ The primary data source of data used here is CSV file and this is an open source
     3. For Visualization
 - SQL - Structured Query Language 
     1. For querying data
+    2. For Analysis
+- Power BI
+    1. For visualization
+    2. For Creating report
 - Github 
    1. For portfolio building 
 
 ### Data Cleaning and Preparations
 ---
-1. Data loading and inspection
+In the initial data preparation phase, the folowing tasks was performed: 
+   1. Data loading and inspection
    2. Handling missing variables
    3. Data cleaning and formatting
 
 ### Exploratory Data Analysis
 ---
 EDA involved the exploring of data to answer some questions about the data such as; 
-- What department has the highest staff
-- The most paid staff
+            Sales Data
+- Retrieve the total sales for each product category. 
+- Find the number of sales transactions in each region. 
+- Find the highest-selling product by total sales value. 
+- Calculate total revenue per product. etc
+            Customer Data
+- Retrieve the total number of customers from each region. 
+- Find the most popular subscription type by the number of customers. 
+- Find customers who canceled their subscription within 6 months. 
+- Calculate the average subscription duration for all customers. 
+- Find customers with subscriptions longer than 12 months.etc
+
+
 
 ### Data Analysis
 ---
