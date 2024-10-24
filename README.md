@@ -19,7 +19,7 @@ DOCUMENTATION OF MY LITA PROJECT
 
 ### Project Overview
 ---
-This project is to give details about my transistioning journey into Data Analysis.
+This project is to give details about how i analysed trans.
 
 ### Data Sources
 ---
@@ -66,10 +66,10 @@ where staffid = 'AB405'
 Few extracted columns from the table i worked on and image from the document i worked on
 
 
-![IMG_4199 (1)](https://github.com/user-attachments/assets/d687b0c4-9ae1-4a12-aef7-7f52f61f70ab)
 
 
-![IMG_4200](https://github.com/user-attachments/assets/5b6a139d-0c29-4fc8-a945-477454be9777)
+
+
 
 |Employer's ID|Name| Department|
 |-------------|---------|---------|
