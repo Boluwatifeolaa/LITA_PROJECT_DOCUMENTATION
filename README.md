@@ -35,18 +35,19 @@ The datase includes the following:
 
 ### Project Objectives
 The project was designed to address the following analysis goals: 
-  1. Total Sales by Product : 
-  2. Total Sales by Region : 
-  3. Region bt Quantities Sold
-  4. Average Sales by Product
+  1. Total Sales by Product : To determine the total sales made by each product
+  2. Total Sales by Region : To determine the total sales made in each region
+  3. Region by Quantities Sold : To analyse the quantities of products sold in each region
+  4. Average Sales by Product : To calculate the average sales per region
 
 ### Key Performance Indicator(KPI)
-    1. Total Sales :
-    2. Unit Sold :
-    3. Average Sales : 
+    1. Total Sales : Sum of Total Sales grouped by region and product
+    2. Unit Sold : Sum of units sold, grouped by region and product 
+    3. Average Sales : Calculated as Total Sales / Total Unit sold for each region to measure the Sales efficiency
+    
 ### Data Sources
 ---
-The primary data source of data used here is "sales_data.csv" and "customer_data.csv" and this is an open source data that can be freely downloaded from an open source online such as kaggle or any other data repository site 
+The primary data source of data used here is "sales_data.csv". This is an open source data that can be freely downloaded from an open source online such as kaggle or any other data repository site 
 
 ### Tools Used 
 ---
@@ -78,13 +79,6 @@ EDA involved the exploring of data to answer some questions about the data such 
 - Find the number of sales transactions in each region. 
 - Find the highest-selling product by total sales value. 
 - Calculate total revenue per product. etc
-            Customer Data
-- Retrieve the total number of customers from each region. 
-- Find the most popular subscription type by the number of customers. 
-- Find customers who canceled their subscription within 6 months. 
-- Calculate the average subscription duration for all customers. 
-- Find customers with subscriptions longer than 12 months.etc
-
 
 
 ### Data Analysis
@@ -94,7 +88,7 @@ This is where we we include some basic lines of code or queries or even some of 
 ``` SQL
 select product,
 sum(Revenue) as total_sales
-from [dbo].[dataset 1]	
+from [dbo].[salesdata]	
 group by Product
 ```
 
@@ -106,25 +100,19 @@ The analysis results are summarised as follows:
    2. Shoes was the highest selling products in terms of sales and revenue
    3. The south region was the region with the high revenue sold, which means customers in other regions should be targeted for 
        marketing efforts
-- Customer Data
-  1. It was noticed that the revenue dropped in year 2023 drastically
-  2. The 
 
 ### Data Visualizations
 ---
 Few extracted columns from the table i worked on and image from the document i worked on
 
 
+![image](https://github.com/user-attachments/assets/0310d5b2-fc67-404c-9103-6cecf1453a97)
 
 
+![image](https://github.com/user-attachments/assets/2869f682-d5ea-4807-b153-e1e1d1398162)
 
+![image](https://github.com/user-attachments/assets/917256d0-080e-418d-9005-67b221df5f14)
 
+![image](https://github.com/user-attachments/assets/b074ff48-c409-4a85-a232-169174e2b1c7)
 
-|Employer's ID|Name| Department|
-|-------------|---------|---------|
-|AB204| Christian O| HR|
-|AB308| Boluwatife A| IT|
-|AB309| Omolola I|Admin|
-|AB208| Ireti A| CSR|
-|AB 305| Funmi M| Account|
 
