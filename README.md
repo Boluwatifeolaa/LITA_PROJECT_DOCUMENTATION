@@ -39,6 +39,11 @@ The project was designed to address the following analysis goals:
   2. Total Sales by Region
   3. Region bt Quantities Sold
   4. Average Sales by Product
+
+### Key Performance Indicator(KPI)
+    1. Total Sales :
+    2. Unit Sold :
+    3. Average Sales : 
 ### Data Sources
 ---
 The primary data source of data used here is "sales_data.csv" and "customer_data.csv" and this is an open source data that can be freely downloaded from an open source online such as kaggle or any other data repository site 
@@ -105,7 +110,7 @@ The analysis results are summarised as follows:
   1. It was noticed that the revenue dropped in year 2023 drastically
   2. The 
 
-### Data Visualizationsoth region has the highest revenue
+### Data Visualizations
 ---
 Few extracted columns from the table i worked on and image from the document i worked on
 
