@@ -1,4 +1,4 @@
-# LITA_PROJECT_DOCUMENTATION
+# SALES DATA ANALYSIS
 DOCUMENTATION OF MY LITA PROJECT 
 
 ### Project Title : FINAL PROJECT FOR LITA.
@@ -19,8 +19,20 @@ DOCUMENTATION OF MY LITA PROJECT
 
 ### Project Overview
 ---
-This project is to give details about the two data i worked with for my project which are Sales data and customer data. By analysing the aspect of sales data and customer data, to identify the trends, sales overview, top-performing products, and 
+This project analyses sales data from different customers in different region. The aim is to give review into the products sold over different period. To identify the trends, sales overview, top-performing products, and 
 regional breakdowns.
+
+### Data Collected
+The datase includes the following:
+ 1. Region :
+ 2. Product :
+ 3. Order Date :
+ 4. Quantity Sold :
+ 5. Order ID:
+ 6. Customer ID :
+ 7. Unit Sold :
+ 8. Total Sales : 
+
 
 ### Data Sources
 ---
