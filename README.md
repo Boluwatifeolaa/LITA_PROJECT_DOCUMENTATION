@@ -1,9 +1,15 @@
 # SALES DATA ANALYSIS
 DOCUMENTATION OF MY LITA PROJECT 
 
-### Project Title : FINAL PROJECT FOR LITA.
+### Project Title : SALES DATA ANALYSIS.
 
 [Project Overview](#project~overview)
+
+[Data Collected](#data~collected)
+
+[Project Objectives](project~objectives)
+
+[Key Performance Indicator(KPI)](key~performance~indicator)
 
 [Data Sources](#data~sources)
 
@@ -13,6 +19,9 @@ DOCUMENTATION OF MY LITA PROJECT
 
 [Exploratory Data Analysis](#exploratory~data~analysis)
 
+[Data Analysis](data~analysis)
+
+[Results and Findings](results~and~findings)
 
 [Data Visualization](#data~visualization)
 
@@ -37,13 +46,15 @@ The datase includes the following:
 The project was designed to address the following analysis goals: 
   1. Total Sales by Product : To determine the total sales made by each product
   2. Total Sales by Region : To determine the total sales made in each region
-  3. Region by Quantities Sold : To analyse the quantities of products sold in each region
+  3. Region by Quantities Sold : To analyse the quantities of products sold in each 
+      region
   4. Average Sales by Product : To calculate the average sales per region
 
 ### Key Performance Indicator(KPI)
     1. Total Sales : Sum of Total Sales grouped by region and product
     2. Unit Sold : Sum of units sold, grouped by region and product 
-    3. Average Sales : Calculated as Total Sales / Total Unit sold for each region to measure the Sales efficiency
+    3. Average Sales : Calculated as Total Sales / Total Unit sold for each region to 
+        measure the Sales efficiency
     
 ### Data Sources
 ---
