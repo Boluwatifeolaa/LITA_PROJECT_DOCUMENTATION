@@ -24,19 +24,19 @@ regional breakdowns.
 
 ### Data Collected
 The datase includes the following:
- 1. Region :
- 2. Product :
- 3. Order Date :
- 4. Quantity Sold :
- 5. Order ID:
- 6. Customer ID :
- 7. Unit Sold :
- 8. Total Sales : 
+ 1. Region : The geographical area where the products is sold
+ 2. Product : The item been sold
+ 3. Order Date : The date the product was ordered
+ 4. Quantity Sold : The Amount of products sold
+ 5. Order ID: The unique number that is assigned to an item placed by the customer
+ 6. Customer ID : A unique codes/Name assigned to an individual customer
+ 7. Unit Sold : The total sales of the products
+ 8. Total Sales : The total revenue sold of the products within a period of time
 
 ### Project Objectives
 The project was designed to address the following analysis goals: 
-  1. Total Sales by Product
-  2. Total Sales by Region
+  1. Total Sales by Product : 
+  2. Total Sales by Region : 
   3. Region bt Quantities Sold
   4. Average Sales by Product
 
