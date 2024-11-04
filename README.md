@@ -33,7 +33,12 @@ The datase includes the following:
  7. Unit Sold :
  8. Total Sales : 
 
-
+### Project Objectives
+The project was designed to address the following analysis goals: 
+  1. Total Sales by Product
+  2. Total Sales by Region
+  3. Region bt Quantities Sold
+  4. Average Sales by Product
 ### Data Sources
 ---
 The primary data source of data used here is "sales_data.csv" and "customer_data.csv" and this is an open source data that can be freely downloaded from an open source online such as kaggle or any other data repository site 
